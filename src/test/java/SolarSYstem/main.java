@@ -11,5 +11,9 @@ public class main {
         Xros.color="pink";
         Xros.temp="3400k";
 
+        planet2 mros= new planet2();
+        mros.color="blue";
+        mros.speed="90ms.sec";
+
     }
 }
