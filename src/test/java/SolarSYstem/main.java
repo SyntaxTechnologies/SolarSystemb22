@@ -7,5 +7,9 @@ public class main {
         solar.planets="2";
         solar.stars="3";
 
+        featureSun Xros= new featureSun();
+        Xros.color="pink";
+        Xros.temp="3400k";
+
     }
 }
