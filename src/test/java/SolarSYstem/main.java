@@ -11,5 +11,9 @@ public class main {
         Xros.color="pink";
         Xros.temp="3400k";
 
+        planet1 tros= new planet1();
+        tros.color="red";
+        tros.speed="800000miles/ms";
+
     }
 }
